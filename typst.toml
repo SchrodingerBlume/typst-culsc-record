@@ -4,7 +4,7 @@ version = "0.11.0"
 entrypoint = "lib.typ"
 authors = [ "Schrödinger Blume <https://github.com/SchrodingerBlume>" ]
 license = "MIT-0"
-description = "全国大学生生命科学竞赛（科学探究类）实验记录 Typst 模板--A Template for Experiment Records of the China Undergraduate Life Sciences Contest (Scientific Exploration)"
+description = "全国大学生生命科学竞赛（科学探究类）实验记录模板--A Template for Experiment Records of the China Undergraduate Life Sciences Contest (Scientific Exploration)"
 repository = "https://github.com/SchrodingerBlume/typst-culsc-record"
 keywords = [
   "culsc",
