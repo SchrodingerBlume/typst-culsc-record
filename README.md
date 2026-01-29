@@ -232,8 +232,8 @@ project/
 The template provides three preset font configurations:
 
 - `"windows"` - SimSun/SimHei + Times New Roman
-- `"macos"` - STSong/STHeiti + Times New Roman
-- `"web"` - Noto Serif CJK/Source Han Serif + TeX Gyre Termes
+- `"macos"` - Songti SC/Heiti SC + Times New Roman
+- `"web"` - Noto Serif CJK SC/Noto Sans CJK SC + TeX Gyre Termes
 
 For math fonts, an additional recommended configuration:
 
@@ -253,8 +253,6 @@ Add bibliography at the end of your document:
   bib-number-align: "right", // Number alignment, can also be "left"
 )
 ```
-
-Cite in text: `@citation-key`
 
 ### Important Notes
 
