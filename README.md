@@ -102,6 +102,9 @@ project/
 - `"windows"` - 中易宋体/黑体 + Times New Roman
 - `"macos"` - 华文宋体/黑体 + Times New Roman
 - `"web"` - 思源宋体/黑体 + TeX Gyre Termes
+
+对于数学字体还有一种额外的推荐配置：
+
 - `"recommend"` - 推荐配置（需自行安装字体）
 
 ### 参考文献
@@ -231,6 +234,9 @@ The template provides three preset font configurations:
 - `"windows"` - SimSun/SimHei + Times New Roman
 - `"macos"` - STSong/STHeiti + Times New Roman
 - `"web"` - Noto Serif CJK/Source Han Serif + TeX Gyre Termes
+
+For math fonts, an additional recommended configuration:
+
 - `"recommend"` - Recommended (requires manual font installation)
 
 ### Bibliography
