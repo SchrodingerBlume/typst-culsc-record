@@ -270,8 +270,8 @@ Compile `template/01/experiment-01.typ` for complete examples.
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ## Repository
 
-https://github.com/SchrodingerBlume/typst-culsc-record
+[https://github.com/SchrodingerBlume/typst-culsc-record](https://github.com/SchrodingerBlume/typst-culsc-record)
