@@ -1,5 +1,5 @@
-#import "@preview/culsc-record:0.11.0": *
-//#import "/lib.typ": *
+//#import "@preview/culsc-record:0.11.0": *
+#import "/lib.typ": *
 
 #show: culsc-record.with(
   // 文本字体集：可选 "windows", "macos", "web"
