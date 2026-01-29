@@ -29,9 +29,13 @@
   let text-fonts = get-text-fonts(text-fontset)
   let math-fonts = get-math-fonts(math-fontset)
   
-  show: cjk-spacer       // 改善 CJK 文本间距表现
-  if text-fonts == "windows" {
-    show: show-cn-fakebold // 伪粗体
+  show: cjk-spacer // 改善 CJK 文本间距表现
+
+  // 中易系列需要伪粗体
+  let body = if text-fontset == "windows" {
+    show-cn-fakebold(body)
+  } else {
+    body
   }
   
   show: doc => gb-math-style(doc, text-fonts, math-fonts) // 国标数学公式
