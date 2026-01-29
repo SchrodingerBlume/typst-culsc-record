@@ -1,4 +1,4 @@
-# CULSC Experiment Record Template | 全国大学生生命科学竞赛实验记录模板
+# A Typst CULSC Experiment Record Template | 基于 Typst 的全国大学生生命科学竞赛实验记录模板
 
 [中文](#中文) | [English](#english)
 
