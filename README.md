@@ -8,7 +8,7 @@
 
 ### 简介
 
-这是一个用于全国大学生生命科学竞赛（科学探究类）实验记录的 Typst 模板。该模板提供了标准化的页面布局、国标格式的数学公式和参考文献支持。
+这是一个用于全国大学生生命科学竞赛（科学探究类）实验记录的 Typst 模板。该模板提供了符合比赛规定的页面布局、国标格式的数学公式和参考文献支持。
 
 ### 快速开始
 
@@ -137,7 +137,7 @@ project/
 
 ### Introduction
 
-This is a Typst template for experiment records of the China Undergraduate Life Sciences Contest (Scientific Exploration). It provides standardized page layout, GB-compliant mathematical formulas, and bibliography support.
+This is a Typst template for experiment records of the China Undergraduate Life Sciences Contest (Scientific Exploration). It provides page layouts compliant with competition requirements, along with support for GB-standard mathematical formulas and references.
 
 ### Quick Start
 
